@@ -1,0 +1,23 @@
+{
+  "name": "latihan-tailwin-sandhika",
+  "version": "1.0.0",
+  "description": "\"# latihan-tailwind-sandhika\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daryassatya/latihan-tailwind-sandhika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daryassatya/latihan-tailwind-sandhika/issues"
+  },
+  "homepage": "https://github.com/daryassatya/latihan-tailwind-sandhika#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
